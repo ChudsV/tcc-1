@@ -26,4 +26,5 @@ function Contador(){
     )
 }
 
+
 export default Home
